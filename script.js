@@ -411,4 +411,499 @@ const questions = [
             { text: 'Alamea', correct: true }
         ]
     },
+    {
+        question: 'https://cdn.shopify.com/s/files/1/0334/0002/9320/products/opalite-moon-star-sleek-bangle-888-34-31-271957_360x.jpg?v=1623280836',
+        answers: [
+            { text: 'Island Fine Jewelry', correct: false },
+            { text: 'Koa Nani', correct: false },
+            { text: 'Hawaiian Jewel', correct: false },
+            { text: 'Alamea', correct: true }
+        ]
+    },
+    {
+        question: 'https://cdn.shopify.com/s/files/1/0334/0002/9320/products/14k-pave-sand-dollar-pendant-with-larimar-566-21-11y-298446_360x.jpg?v=1622686041',
+        answers: [
+            { text: 'Island Fine Jewelry', correct: false },
+            { text: 'Koa Nani', correct: false },
+            { text: 'Hawaiian Jewel', correct: false },
+            { text: 'Alamea', correct: true }
+        ]
+    },
+    {
+        question: 'https://cdn.shopify.com/s/files/1/0334/0002/9320/products/beachside-palm-tree-earrings-855-12-01-640275_360x.jpg?v=1623282153',
+        answers: [
+            { text: 'Island Fine Jewelry', correct: false },
+            { text: 'Koa Nani', correct: false },
+            { text: 'Hawaiian Jewel', correct: false },
+            { text: 'Alamea', correct: true }
+        ]
+    },
+    {
+        question: 'https://cdn.shopify.com/s/files/1/0334/0002/9320/products/14k-aquamarine-larimar-ring-955574_360x.jpg?v=1622948523',
+        answers: [
+            { text: 'Island Fine Jewelry', correct: false },
+            { text: 'Koa Nani', correct: false },
+            { text: 'Hawaiian Jewel', correct: false },
+            { text: 'Alamea', correct: true }
+        ]
+    },
+    {
+        question: '',
+        answers: [
+            { text: 'Island Fine Jewelry', correct: false },
+            { text: 'Koa Nani', correct: false },
+            { text: 'Hawaiian Jewel', correct: false },
+            { text: 'Alamea', correct: true }
+        ]
+    },
+    {
+        question: 'https://cdn.shopify.com/s/files/1/0334/0002/9320/products/14k-compass-earrings-with-diamonds-846-22-01y-408392_360x.jpg?v=1622503661',
+        answers: [
+            { text: 'Island Fine Jewelry', correct: false },
+            { text: 'Koa Nani', correct: false },
+            { text: 'Hawaiian Jewel', correct: false },
+            { text: 'Alamea', correct: true }
+        ]
+    },
+    {
+        question: 'https://cdn.shopify.com/s/files/1/0334/0002/9320/products/14k-gecko-pendant-007-21-01w-614003_360x.jpg?v=1628471502',
+        answers: [
+            { text: 'Island Fine Jewelry', correct: false },
+            { text: 'Koa Nani', correct: false },
+            { text: 'Hawaiian Jewel', correct: false },
+            { text: 'Alamea', correct: true }
+        ]
+    },
+    {
+        question: 'https://cdn.shopify.com/s/files/1/0334/0002/9320/products/14k-hokuhele-eternity-pendant-502-21-01w-537265_360x.jpg?v=1628476451',
+        answers: [
+            { text: 'Island Fine Jewelry', correct: false },
+            { text: 'Koa Nani', correct: false },
+            { text: 'Hawaiian Jewel', correct: false },
+            { text: 'Alamea', correct: true }
+        ]
+    },
+    {
+        question: '',
+        answers: [
+            { text: 'Island Fine Jewelry', correct: false },
+            { text: 'Koa Nani', correct: false },
+            { text: 'Hawaiian Jewel', correct: false },
+            { text: 'Alamea', correct: true }
+        ]
+    },
+    {
+        question: 'https://cdn.shopify.com/s/files/1/0334/0002/9320/products/14k-larimar-cassiopeia-pendant-811-21-11y-182014_360x.jpg?v=1622501930',
+        answers: [
+            { text: 'Island Fine Jewelry', correct: false },
+            { text: 'Koa Nani', correct: false },
+            { text: 'Hawaiian Jewel', correct: false },
+            { text: 'Alamea', correct: true }
+        ]
+    },
+    {
+        question: 'https://cdn.shopify.com/s/files/1/0334/0002/9320/products/14k-bangle-with-honu-engraving-443077_360x.jpg?v=1626056513',
+        answers: [
+            { text: 'Island Fine Jewelry', correct: false },
+            { text: 'Koa Nani', correct: true },
+            { text: 'Hawaiian Jewel', correct: false },
+            { text: 'Alamea', correct: false }
+        ]
+    },
+    {
+        question: 'https://cdn.shopify.com/s/files/1/0334/0002/9320/products/aloha-kaei-diamond-ring-720755050-108622_360x.jpg?v=1623738790',
+        answers: [
+            { text: 'Island Fine Jewelry', correct: false },
+            { text: 'Koa Nani', correct: true },
+            { text: 'Hawaiian Jewel', correct: false },
+            { text: 'Alamea', correct: false }
+        ]
+    },
+    {
+        question: 'https://cdn.shopify.com/s/files/1/0334/0002/9320/products/14k-key-charm-821172_360x.jpg?v=1622500739',
+        answers: [
+            { text: 'Island Fine Jewelry', correct: false },
+            { text: 'Koa Nani', correct: true },
+            { text: 'Hawaiian Jewel', correct: false },
+            { text: 'Alamea', correct: false }
+        ]
+    },
+    {
+        question: 'https://cdn.shopify.com/s/files/1/0334/0002/9320/products/turquoise-nalu-channel-ring-758418_540x.jpg?v=1623640914',
+        answers: [
+            { text: 'Island Fine Jewelry', correct: false },
+            { text: 'Koa Nani', correct: true },
+            { text: 'Hawaiian Jewel', correct: false },
+            { text: 'Alamea', correct: false }
+        ]
+    },
+    {
+        question: 'https://cdn.shopify.com/s/files/1/0334/0002/9320/products/14k-cross-charm-228154_360x.jpg?v=1622500318',
+        answers: [
+            { text: 'Island Fine Jewelry', correct: false },
+            { text: 'Koa Nani', correct: true },
+            { text: 'Hawaiian Jewel', correct: false },
+            { text: 'Alamea', correct: false }
+        ]
+    },
+    {
+        question: 'https://cdn.shopify.com/s/files/1/0334/0002/9320/products/14k-heart-earrings-with-opal-333822_360x.jpg?v=1622502589',
+        answers: [
+            { text: 'Island Fine Jewelry', correct: false },
+            { text: 'Koa Nani', correct: true },
+            { text: 'Hawaiian Jewel', correct: false },
+            { text: 'Alamea', correct: false }
+        ]
+    },
+    {
+        question: 'https://cdn.shopify.com/s/files/1/0334/0002/9320/products/14k-fleur-de-lis-pendant-720587-515688_360x.jpg?v=1625379558',
+        answers: [
+            { text: 'Island Fine Jewelry', correct: false },
+            { text: 'Koa Nani', correct: true },
+            { text: 'Hawaiian Jewel', correct: false },
+            { text: 'Alamea', correct: false }
+        ]
+    },
+    {
+        question: 'https://cdn.shopify.com/s/files/1/0334/0002/9320/products/aumakua-petroglyph-pendant-720709-278193_360x.jpg?v=1623302376',
+        answers: [
+            { text: 'Island Fine Jewelry', correct: false },
+            { text: 'Koa Nani', correct: true },
+            { text: 'Hawaiian Jewel', correct: false },
+            { text: 'Alamea', correct: false }
+        ]
+    },
+    {
+        question: '',
+        answers: [
+            { text: 'Island Fine Jewelry', correct: false },
+            { text: 'Koa Nani', correct: true },
+            { text: 'Hawaiian Jewel', correct: false },
+            { text: 'Alamea', correct: false }
+        ]
+    },
+    {
+        question: 'https://cdn.shopify.com/s/files/1/0334/0002/9320/products/14k-infinity-scroll-pendant-720519-273905_360x.jpg?v=1625617905',
+        answers: [
+            { text: 'Island Fine Jewelry', correct: false },
+            { text: 'Koa Nani', correct: true },
+            { text: 'Hawaiian Jewel', correct: false },
+            { text: 'Alamea', correct: false }
+        ]
+    },
+    {
+        question: 'https://cdn.shopify.com/s/files/1/0334/0002/9320/products/14k-pohai-charm-pendant-720546-988358_360x.jpg?v=1625617451',
+        answers: [
+            { text: 'Island Fine Jewelry', correct: false },
+            { text: 'Koa Nani', correct: true },
+            { text: 'Hawaiian Jewel', correct: false },
+            { text: 'Alamea', correct: false }
+        ]
+    },
+    {
+        question: 'https://cdn.shopify.com/s/files/1/0334/0002/9320/products/pearl-honu-infinity-pendant-184-91-11-777179_360x.jpg?v=1653611447',
+        answers: [
+            { text: 'Island Fine Jewelry', correct: true },
+            { text: 'Koa Nani', correct: false },
+            { text: 'Hawaiian Jewel', correct: false },
+            { text: 'Alamea', correct: false }
+        ]
+    },
+    {
+        question: 'https://cdn.shopify.com/s/files/1/0334/0002/9320/products/pearl-lava-flow-pendant-708-91-21-743505_360x.jpg?v=1653611763',
+        answers: [
+            { text: 'Island Fine Jewelry', correct: true },
+            { text: 'Koa Nani', correct: false },
+            { text: 'Hawaiian Jewel', correct: false },
+            { text: 'Alamea', correct: false }
+        ]
+    },
+    {
+        question: 'https://cdn.shopify.com/s/files/1/0334/0002/9320/products/pearl-pave-wave-pendant-237-91-21-498891_360x.jpg?v=1653611389',
+        answers: [
+            { text: 'Island Fine Jewelry', correct: true },
+            { text: 'Koa Nani', correct: false },
+            { text: 'Hawaiian Jewel', correct: false },
+            { text: 'Alamea', correct: false }
+        ]
+    },
+    {
+        question: 'https://cdn.shopify.com/s/files/1/0334/0002/9320/products/pearl-flippers-pendant-220-91-11-247101_360x.jpg?v=1653611437',
+        answers: [
+            { text: 'Island Fine Jewelry', correct: true },
+            { text: 'Koa Nani', correct: false },
+            { text: 'Hawaiian Jewel', correct: false },
+            { text: 'Alamea', correct: false }
+        ]
+    },
+    {
+        question: 'https://cdn.shopify.com/s/files/1/0334/0002/9320/products/pearl-plumeria-cluster-pendant-211-91-11-146133_360x.jpg?v=1653612071',
+        answers: [
+            { text: 'Island Fine Jewelry', correct: true },
+            { text: 'Koa Nani', correct: false },
+            { text: 'Hawaiian Jewel', correct: false },
+            { text: 'Alamea', correct: false }
+        ]
+    },
+    {
+        question: 'https://cdn.shopify.com/s/files/1/0334/0002/9320/products/abalone-eagle-ray-pendant-391364_360x.jpg?v=1671855339',
+        answers: [
+            { text: 'Island Fine Jewelry', correct: false },
+            { text: 'Koa Nani', correct: false },
+            { text: 'Hawaiian Jewel', correct: false },
+            { text: 'Alamea', correct: true }
+        ]
+    },
+    {
+        question: 'https://cdn.shopify.com/s/files/1/0334/0002/9320/products/opal-hawaiian-canoe-pendant-104-31-01-235068_360x.jpg?v=1672454018',
+        answers: [
+            { text: 'Island Fine Jewelry', correct: false },
+            { text: 'Koa Nani', correct: false },
+            { text: 'Hawaiian Jewel', correct: false },
+            { text: 'Alamea', correct: true }
+        ]
+    },
+    {
+        question: 'https://cdn.shopify.com/s/files/1/0334/0002/9320/products/abalone-maui-fish-hook-pendant-057-51-31-172922_360x.jpg?v=1671855551',
+        answers: [
+            { text: 'Island Fine Jewelry', correct: false },
+            { text: 'Koa Nani', correct: false },
+            { text: 'Hawaiian Jewel', correct: false },
+            { text: 'Alamea', correct: true }
+        ]
+    },
+    {
+        question: 'https://cdn.shopify.com/s/files/1/0334/0002/9320/products/opalite-aloha-heart-earrings-388-32-08s2-209442_360x.jpg?v=1669643121',
+        answers: [
+            { text: 'Island Fine Jewelry', correct: false },
+            { text: 'Koa Nani', correct: false },
+            { text: 'Hawaiian Jewel', correct: false },
+            { text: 'Alamea', correct: true }
+        ]
+    },
+    {
+        question: 'https://cdn.shopify.com/s/files/1/0334/0002/9320/products/opalite-maile-leaf-earrings-428948_360x.jpg?v=1669643079',
+        answers: [
+            { text: 'Island Fine Jewelry', correct: false },
+            { text: 'Koa Nani', correct: false },
+            { text: 'Hawaiian Jewel', correct: false },
+            { text: 'Alamea', correct: true }
+        ]
+    },
+    {
+        question: 'https://cdn.shopify.com/s/files/1/0334/0002/9320/products/koa-wood-whale-tail-sleek-bangle-156894_360x.jpg?v=1661487453',
+        answers: [
+            { text: 'Island Fine Jewelry', correct: false },
+            { text: 'Koa Nani', correct: false },
+            { text: 'Hawaiian Jewel', correct: false },
+            { text: 'Alamea', correct: true }
+        ]
+    },
+    {
+        question: 'https://cdn.shopify.com/s/files/1/0334/0002/9320/products/pink-opalite-sunflower-ring-with-larimar-1017-83-01-050-362072_360x.jpg?v=1669643062',
+        answers: [
+            { text: 'Island Fine Jewelry', correct: false },
+            { text: 'Koa Nani', correct: false },
+            { text: 'Hawaiian Jewel', correct: false },
+            { text: 'Alamea', correct: true }
+        ]
+    },
+    {
+        question: 'https://cdn.shopify.com/s/files/1/0629/4860/6180/files/B2279.jpg?v=1647385683',
+        answers: [
+            { text: 'Island Fine Jewelry', correct: false },
+            { text: 'Koa Nani', correct: false },
+            { text: 'Hawaiian Jewel', correct: true },
+            { text: 'Alamea', correct: false }
+        ]
+    },
+    {
+        question: 'https://cdn.shopify.com/s/files/1/0629/4860/6180/files/ESP2836.jpg?v=1647385684',
+        answers: [
+            { text: 'Island Fine Jewelry', correct: false },
+            { text: 'Koa Nani', correct: false },
+            { text: 'Hawaiian Jewel', correct: true },
+            { text: 'Alamea', correct: false }
+        ]
+    },
+    {
+        question: 'https://cdn.shopify.com/s/files/1/0629/4860/6180/files/ESP2609.jpg?v=1647385683',
+        answers: [
+            { text: 'Island Fine Jewelry', correct: false },
+            { text: 'Koa Nani', correct: false },
+            { text: 'Hawaiian Jewel', correct: true },
+            { text: 'Alamea', correct: false }
+        ]
+    },
+    {
+        question: 'https://cdn.shopify.com/s/files/1/0629/4860/6180/files/ESP3093.jpg?v=1647385684',
+        answers: [
+            { text: 'Island Fine Jewelry', correct: false },
+            { text: 'Koa Nani', correct: false },
+            { text: 'Hawaiian Jewel', correct: true },
+            { text: 'Alamea', correct: false }
+        ]
+    },
+    {
+        question: 'https://cdn.shopify.com/s/files/1/0629/4860/6180/files/ESP3194.jpg?v=1647385684',
+        answers: [
+            { text: 'Island Fine Jewelry', correct: false },
+            { text: 'Koa Nani', correct: false },
+            { text: 'Hawaiian Jewel', correct: true },
+            { text: 'Alamea', correct: false }
+        ]
+    },
+    {
+        question: 'https://cdn.shopify.com/s/files/1/0629/4860/6180/files/ESP3196.jpg?v=1647385684',
+        answers: [
+            { text: 'Island Fine Jewelry', correct: false },
+            { text: 'Koa Nani', correct: false },
+            { text: 'Hawaiian Jewel', correct: true },
+            { text: 'Alamea', correct: false }
+        ]
+    },
+    {
+        question: 'https://cdn.shopify.com/s/files/1/0629/4860/6180/files/PP10404.jpg?v=1647385761',
+        answers: [
+            { text: 'Island Fine Jewelry', correct: false },
+            { text: 'Koa Nani', correct: false },
+            { text: 'Hawaiian Jewel', correct: true },
+            { text: 'Alamea', correct: false }
+        ]
+    },
+    {
+        question: 'https://cdn.shopify.com/s/files/1/0629/4860/6180/files/SBR3568.jpg?v=1647385762',
+        answers: [
+            { text: 'Island Fine Jewelry', correct: false },
+            { text: 'Koa Nani', correct: false },
+            { text: 'Hawaiian Jewel', correct: true },
+            { text: 'Alamea', correct: false }
+        ]
+    },
+    {
+        question: 'https://cdn.shopify.com/s/files/1/0629/4860/6180/files/SE17902.jpg?v=1647385763',
+        answers: [
+            { text: 'Island Fine Jewelry', correct: false },
+            { text: 'Koa Nani', correct: false },
+            { text: 'Hawaiian Jewel', correct: true },
+            { text: 'Alamea', correct: false }
+        ]
+    },
+    {
+        question: 'https://cdn.shopify.com/s/files/1/0629/4860/6180/files/SE50801.jpg?v=1647385918',
+        answers: [
+            { text: 'Island Fine Jewelry', correct: false },
+            { text: 'Koa Nani', correct: false },
+            { text: 'Hawaiian Jewel', correct: true },
+            { text: 'Alamea', correct: false }
+        ]
+    },
+    {
+        question: 'https://cdn.shopify.com/s/files/1/0629/4860/6180/files/SE28201.jpg?v=1647385918',
+        answers: [
+            { text: 'Island Fine Jewelry', correct: false },
+            { text: 'Koa Nani', correct: false },
+            { text: 'Hawaiian Jewel', correct: true },
+            { text: 'Alamea', correct: false }
+        ]
+    },
+    {
+        question: 'https://cdn.shopify.com/s/files/1/0629/4860/6180/files/SE54106.jpg?v=1647385919',
+        answers: [
+            { text: 'Island Fine Jewelry', correct: false },
+            { text: 'Koa Nani', correct: false },
+            { text: 'Hawaiian Jewel', correct: true },
+            { text: 'Alamea', correct: false }
+        ]
+    },
+    {
+        question: 'https://cdn.shopify.com/s/files/1/0629/4860/6180/files/SE56047.jpg?v=1647385919',
+        answers: [
+            { text: 'Island Fine Jewelry', correct: false },
+            { text: 'Koa Nani', correct: false },
+            { text: 'Hawaiian Jewel', correct: true },
+            { text: 'Alamea', correct: false }
+        ]
+    },
+    {
+        question: 'https://cdn.shopify.com/s/files/1/0629/4860/6180/files/SE60207.jpg?v=1647386029',
+        answers: [
+            { text: 'Island Fine Jewelry', correct: false },
+            { text: 'Koa Nani', correct: false },
+            { text: 'Hawaiian Jewel', correct: true },
+            { text: 'Alamea', correct: false }
+        ]
+    },
+    {
+        question: 'https://cdn.shopify.com/s/files/1/0629/4860/6180/files/SNL2325.jpg?v=1647386028',
+        answers: [
+            { text: 'Island Fine Jewelry', correct: false },
+            { text: 'Koa Nani', correct: false },
+            { text: 'Hawaiian Jewel', correct: true },
+            { text: 'Alamea', correct: false }
+        ]
+    },
+    {
+        question: 'https://cdn.shopify.com/s/files/1/0629/4860/6180/files/SOP1044.jpg?v=1647386028',
+        answers: [
+            { text: 'Island Fine Jewelry', correct: false },
+            { text: 'Koa Nani', correct: false },
+            { text: 'Hawaiian Jewel', correct: true },
+            { text: 'Alamea', correct: false }
+        ]
+    },
+    {
+        question: 'https://cdn.shopify.com/s/files/1/0629/4860/6180/files/SOP1005.jpg?v=1647386028',
+        answers: [
+            { text: 'Island Fine Jewelry', correct: false },
+            { text: 'Koa Nani', correct: false },
+            { text: 'Hawaiian Jewel', correct: true },
+            { text: 'Alamea', correct: false }
+        ]
+    },
+    {
+        question: 'https://cdn.shopify.com/s/files/1/0629/4860/6180/files/SP33705.jpg?v=1647386137',
+        answers: [
+            { text: 'Island Fine Jewelry', correct: false },
+            { text: 'Koa Nani', correct: false },
+            { text: 'Hawaiian Jewel', correct: true },
+            { text: 'Alamea', correct: false }
+        ]
+    },
+    {
+        question: 'https://cdn.shopify.com/s/files/1/0629/4860/6180/files/SP33401.jpg?v=1647386137',
+        answers: [
+            { text: 'Island Fine Jewelry', correct: false },
+            { text: 'Koa Nani', correct: false },
+            { text: 'Hawaiian Jewel', correct: true },
+            { text: 'Alamea', correct: false }
+        ]
+    },
+    {
+        question: 'https://cdn.shopify.com/s/files/1/0629/4860/6180/files/SP32001.jpg?v=1647386136',
+        answers: [
+            { text: 'Island Fine Jewelry', correct: false },
+            { text: 'Koa Nani', correct: false },
+            { text: 'Hawaiian Jewel', correct: true },
+            { text: 'Alamea', correct: false }
+        ]
+    },
+    {
+        question: 'https://cdn.shopify.com/s/files/1/0629/4860/6180/files/SP73601.jpg?v=1647386137',
+        answers: [
+            { text: 'Island Fine Jewelry', correct: false },
+            { text: 'Koa Nani', correct: false },
+            { text: 'Hawaiian Jewel', correct: true },
+            { text: 'Alamea', correct: false }
+        ]
+    },
+    {
+        question: 'https://cdn.shopify.com/s/files/1/0629/4860/6180/files/SP80151.jpg?v=1647386138',
+        answers: [
+            { text: 'Island Fine Jewelry', correct: false },
+            { text: 'Koa Nani', correct: false },
+            { text: 'Hawaiian Jewel', correct: true },
+            { text: 'Alamea', correct: false }
+        ]
+    },
 ]
